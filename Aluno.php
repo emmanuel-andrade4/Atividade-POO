@@ -35,7 +35,7 @@ class Aluno
     } elseif ($media >= 4.5) {
         echo "Situação: Recuperação!" . PHP_EOL . PHP_EOL;
     } else {
-        echo "Situação: Reprovado!" . PHP_EOL . PHP_EOL;;
+        echo "Situação: Reprovado!" . PHP_EOL . PHP_EOL;
     }
 }
         
